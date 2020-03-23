@@ -102,14 +102,15 @@ Wait till the application is opened into your browser. Now, you can explore Land
 
 
 
+<p align="center">
+<img src=https://user-images.githubusercontent.com/59104566/77325515-0f023880-6d4b-11ea-990b-93db690e1d73.jpg width="256" height="455">
 
-<img src=https://user-images.githubusercontent.com/59104566/77325515-0f023880-6d4b-11ea-990b-93db690e1d73.jpg width="100">
+<img src=https://user-images.githubusercontent.com/59104566/77325528-13c6ec80-6d4b-11ea-8b61-a882d6c73208.jpg width="256" height="455">
 
-<img src=https://user-images.githubusercontent.com/59104566/77325528-13c6ec80-6d4b-11ea-8b61-a882d6c73208.jpg width="100">
+<img src=https://user-images.githubusercontent.com/59104566/77325528-13c6ec80-6d4b-11ea-8b61-a882d6c73208.jpg width="256" height="455">
 
-<img src=https://user-images.githubusercontent.com/59104566/77325528-13c6ec80-6d4b-11ea-8b61-a882d6c73208.jpg width="100">
-
-<img src=https://user-images.githubusercontent.com/59104566/77325540-175a7380-6d4b-11ea-9710-57c9329e29b2.jpg width="100">
+<img src=https://user-images.githubusercontent.com/59104566/77325540-175a7380-6d4b-11ea-9710-57c9329e29b2.jpg width="256" height="455">
+</p>
 
 
 ## Built With
