@@ -98,7 +98,7 @@ Wait till the application is opened into your browser. Now, you can explore Land
 ## Screenshots
 
 
-<img src=https://user-images.githubusercontent.com/59104566/77325500-09a4ee00-6d4b-11ea-955c-3f088bea2983.jpg>
+<img src=https://user-images.githubusercontent.com/59104566/77325500-09a4ee00-6d4b-11ea-955c-3f088bea2983.jpg  width="48">
 
 
 ![Screenshot_20200323-175925_landtick](https://user-images.githubusercontent.com/59104566/77325515-0f023880-6d4b-11ea-990b-93db690e1d73.jpg)
