@@ -98,10 +98,10 @@ Wait till the application is opened into your browser. Now, you can explore Land
 ## Screenshots
 
 
-![Screenshot_20200323-175941_landtick](https://user-images.githubusercontent.com/59104566/77325500-09a4ee00-6d4b-11ea-955c-3f088bea2983.jpg)
-![Screenshot_20200323-175925_landtick](https://user-images.githubusercontent.com/59104566/77325515-0f023880-6d4b-11ea-990b-93db690e1d73.jpg)
-![Screenshot_20200323-175923_landtick](https://user-images.githubusercontent.com/59104566/77325528-13c6ec80-6d4b-11ea-8b61-a882d6c73208.jpg)
-![Screenshot_20200323-175929_landtick](https://user-images.githubusercontent.com/59104566/77325540-175a7380-6d4b-11ea-9710-57c9329e29b2.jpg)
+![Screenshot_20200323-175941_landtick](https://user-images.githubusercontent.com/59104566/77325500-09a4ee00-6d4b-11ea-955c-3f088bea2983.jpg| width=100)
+![Screenshot_20200323-175925_landtick](https://user-images.githubusercontent.com/59104566/77325515-0f023880-6d4b-11ea-990b-93db690e1d73.jpg| width=100)
+![Screenshot_20200323-175923_landtick](https://user-images.githubusercontent.com/59104566/77325528-13c6ec80-6d4b-11ea-8b61-a882d6c73208.jpg| width=100)
+![Screenshot_20200323-175929_landtick](https://user-images.githubusercontent.com/59104566/77325540-175a7380-6d4b-11ea-9710-57c9329e29b2.jpg| width=100)
 
 
 ## Built With
