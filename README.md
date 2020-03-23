@@ -82,7 +82,3 @@ Wait till the application is opened into your browser. Now, you can explore Land
 ## Author
 
 **Muhammad Edo Lubis** - [edolubis21](https://github.com/edolubis21)
-
-## License
-
-This project is licensed under the GNU General Public v3.0 License - see the [LICENSE](LICENSE) file for details
