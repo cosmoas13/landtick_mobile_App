@@ -98,11 +98,9 @@ Wait till the application is opened into your browser. Now, you can explore Land
 ## Screenshots
 
 
+<p align="center">
 <img src=https://user-images.githubusercontent.com/59104566/77325500-09a4ee00-6d4b-11ea-955c-3f088bea2983.jpg  width="100">
 
-
-
-<p align="center">
 <img src=https://user-images.githubusercontent.com/59104566/77325515-0f023880-6d4b-11ea-990b-93db690e1d73.jpg width="256" height="455">
 
 <img src=https://user-images.githubusercontent.com/59104566/77325528-13c6ec80-6d4b-11ea-8b61-a882d6c73208.jpg width="256" height="455">
