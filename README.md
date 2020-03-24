@@ -31,7 +31,7 @@ Make sure all of these are properly installed in your system.
 First, clone this repository into your system.
 
 ```
-git clone https://github.com/setyawanandik/Landtick_DW14GLU9N.git
+git clone https://github.com/edolubis21/landtick_mobile_App.git
 ```
 
 Then, install all the packages that described in `package.json` of both `client` and `server` directories.
@@ -39,21 +39,6 @@ Then, install all the packages that described in `package.json` of both `client`
 ```
 npm install
 ```
-
-### Client Setup
-
-Before running the application, we need to configure an environtment variable for the client, let's find .env file in client's root project, open and edit it.
-
-```
-REACT_APP_BASE_BACKEND_URL=http://localhost:5000
-```
-Note that the REACT_APP_BASE_BACKEND_URL above is the address of the server previously run, making sure the ip and port are the same with server address.
-
-Then, run the web application.
-
-`npm run start`
-
-Wait till the application is opened into your browser. Now, you can explore Landtick and its features. Enjoy!
 
 ## Screenshots
 
