@@ -7,7 +7,7 @@ Application booking ticket mobile App
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Client Setup](#client-setup)
+  - [Client Setup](#Run)
 - [Screenshots](#screenshots)
 - [Built With](#built-with)
 - [Author](#author)
@@ -38,6 +38,14 @@ Then, install all the packages that described in `package.json` of both `client`
 
 ```
 npm install
+
+```
+
+## Run
+
+```
+Npm run android
+
 ```
 
 ## Screenshots
