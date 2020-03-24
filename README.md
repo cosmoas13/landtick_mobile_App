@@ -60,16 +60,7 @@ Wait till the application is opened into your browser. Now, you can explore Land
 
 <p align="center">
   
-  <img src=https://user-images.githubusercontent.com/59104566/77341440-4c71c080-6d61-11ea-9d63-42208369f830.jpg width="256" height="455">
-  
-  <img src=https://user-images.githubusercontent.com/59104566/77325540-175a7380-6d4b-11ea-9710-57c9329e29b2.jpg width="256" height="455">
-  
-<img src=https://user-images.githubusercontent.com/59104566/77325500-09a4ee00-6d4b-11ea-955c-3f088bea2983.jpg  width="256" height="455">
-
-<img src=https://user-images.githubusercontent.com/59104566/77325515-0f023880-6d4b-11ea-990b-93db690e1d73.jpg width="256" height="455">
-
-<img src=https://user-images.githubusercontent.com/59104566/77325528-13c6ec80-6d4b-11ea-8b61-a882d6c73208.jpg width="256" height="455">
-
+ ![screencapture-canva-design-DAD1qaFmcsE-WQJT3lWMYwysFBSf37W4hw-edit-2020-03-24-19_53_29](https://user-images.githubusercontent.com/59104566/77428115-2f44fc80-6e0a-11ea-8220-bdcf4b3b9f6a.png)
 
 </p>
 
